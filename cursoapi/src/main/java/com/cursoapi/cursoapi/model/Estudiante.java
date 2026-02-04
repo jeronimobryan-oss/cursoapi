@@ -11,7 +11,7 @@ public class Estudiante {
         this.apellido = apellido;
         this.edad = edad;
         this.matricula = matricula;
-    }
+    }git remote -v
     public String getNombre() {
         return nombre;
     }
